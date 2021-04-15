@@ -3504,6 +3504,91 @@
       "installedTargets": null
     },
     {
+      "addonID": 395078,
+      "gameInstanceID": "5a42059f-ef93-4db6-90e1-a46cd613d968",
+      "installedFile": {
+        "id": 3183888,
+        "displayName": "Infernal Expansion Release 1.3",
+        "fileName": "infernal-expansion-forge-1.3.jar",
+        "fileDate": "2021-01-27T23:12:10.637Z",
+        "fileLength": 779103,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3183/888/infernal-expansion-forge-1.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1983966192,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2965200020,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 558953381,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 4257013093,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "Infernal_Expansion_Logo.png",
+            "fingerprint": 1843497546,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3380797652,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1725922421,
+        "gameVersion": [
+          "1.16.5",
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "infernal-expansion-forge-1.3.jar"
+      },
+      "dateInstalled": "2021-04-15T15:05:23.4338479Z",
+      "dateUpdated": "2021-04-15T15:05:23.4488396Z",
+      "dateLastUpdateAttempted": "2021-04-15T15:05:23.4488396Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 231095,
       "gameInstanceID": "5a42059f-ef93-4db6-90e1-a46cd613d968",
       "installedFile": {
@@ -4091,6 +4176,79 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 261251,
+      "gameInstanceID": "5a42059f-ef93-4db6-90e1-a46cd613d968",
+      "installedFile": {
+        "id": 3101531,
+        "displayName": "bwncr-1.16.4-3.9.16.jar",
+        "fileName": "bwncr-1.16.4-3.9.16.jar",
+        "fileDate": "2020-11-04T00:10:34.54Z",
+        "fileLength": 11423,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3101/531/bwncr-1.16.4-3.9.16.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2512483084,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 4131128426,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2363923422,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 4253522632,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 4149953045,
+        "gameVersion": [
+          "1.16.5",
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "bwncr-1.16.4-3.9.16.jar"
+      },
+      "dateInstalled": "2021-04-15T15:05:27.7795771Z",
+      "dateUpdated": "2021-04-15T15:05:27.8655282Z",
+      "dateLastUpdateAttempted": "2021-04-15T15:05:27.8655282Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 312353,
